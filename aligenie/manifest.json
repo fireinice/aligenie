@@ -1,0 +1,9 @@
+{
+    "domain": "aligenie",
+    "name": "tmall aligenie",
+    "documentation": "",
+    "requirements": [],
+    "dependencies": [],
+    "version": "0.1.0",
+    "codeowners": ["@fireinice"]
+}
